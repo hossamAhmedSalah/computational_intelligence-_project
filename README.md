@@ -5,7 +5,7 @@ Clustering-Based Customer Segmentation with CI/EC Algorithms
 
 ## 📌 1. Define the Project
 - [ ] Clarify the goal: CI/EC-based customer clustering for segmentation.
-- [ ] Choose or simulate a suitable dataset with numerical features.
+- [x] Choose or simulate a suitable dataset with numerical features.
 - [ ] Conduct a literature review (6 relevant academic papers).
 
 ## 🧠 2. Design the Approach
