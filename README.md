@@ -1,4 +1,4 @@
-# computational_intelligence-_project
+# Computational Intelligencea
 Clustering-Based Customer Segmentation with CI/EC Algorithms
 
 > This is a brief overview. For a more detailed explanation, please refer to the [full documentation](docs/CI_documentation.pdf).
