@@ -62,6 +62,8 @@ We assessed clustering performance using:
 ![image](https://github.com/user-attachments/assets/c7fb0957-eea5-4c21-aa43-f2a97412dfa3)
 
 ## GUI 
+![image](https://github.com/user-attachments/assets/7e802bbf-7b10-431f-9c6a-33691e20eac1)
+
 
 
 
